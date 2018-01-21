@@ -1,4 +1,4 @@
-package base.lock;
+package base.lock.reentranceLock;
 
 public class ReentranceLock {
     private boolean isLocked = false;

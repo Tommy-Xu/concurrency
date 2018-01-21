@@ -1,5 +1,7 @@
 package base.semaphore;
 
+import base.semaphore.boundedSemaphore.BoundedSemaphore;
+
 public class Main {
     public static void main(String[] args) {
         Semaphore semaphore = new Semaphore();

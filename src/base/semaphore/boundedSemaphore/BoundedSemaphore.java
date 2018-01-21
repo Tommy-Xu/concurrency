@@ -1,4 +1,4 @@
-package base.semaphore;
+package base.semaphore.boundedSemaphore;
 
 public class BoundedSemaphore {
     private int upperBounds = 0;

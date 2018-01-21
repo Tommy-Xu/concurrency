@@ -1,4 +1,4 @@
-package base.semaphore;
+package base.semaphore.countingSemaphore;
 
 public class CountingSemaphore {
     private int signals = 0;

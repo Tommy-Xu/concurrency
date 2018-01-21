@@ -1,4 +1,4 @@
-package base.lock;
+package base.lock.readWriteLock;
 
 public class ReadWriteLock {
     private int readers = 0;
